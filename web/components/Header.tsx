@@ -4,11 +4,13 @@ import type { AuditRun, ScoreReport } from "../lib/types";
 export default function Header({
   auditRun,
   report,
-  primaryBrand
+  primaryBrand,
+  refreshedDate
 }: {
   auditRun: AuditRun;
   report: ScoreReport;
   primaryBrand: string;
+  refreshedDate: string;
 }) {
   return (
     <header className="grid gap-8 pb-10 pt-16 md:grid-cols-[minmax(0,1fr)_auto] md:items-start md:pt-24">
@@ -18,8 +20,8 @@ export default function Header({
           Surfaced
         </h1>
         <p className="mt-8 max-w-2xl text-sm leading-7 text-muted md:text-base">
-          {report.category || "no data"} | {auditRun.run_id || "no data"} |{" "}
-          {report.considered_prompts}/{report.total_prompts} prompts considered
+          {report.category || "no data"} | {report.considered_prompts}/{report.total_prompts}{" "}
+          prompts considered | Refreshed {refreshedDate}
         </p>
       </div>
       <div className="md:pt-5">

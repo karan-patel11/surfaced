@@ -27,9 +27,10 @@ function orderedPromptResults(auditRun: AuditRun, prompt: string): EngineResult[
 export default function PromptDetail({ auditRun }: { auditRun: AuditRun }) {
   const prompts = auditRun.prompts ?? [];
   const [selectedPrompt, setSelectedPrompt] = useState(prompts[0] ?? "");
+  const activePrompt = prompts.includes(selectedPrompt) ? selectedPrompt : prompts[0] ?? "";
   const results = useMemo(
-    () => orderedPromptResults(auditRun, selectedPrompt),
-    [auditRun, selectedPrompt]
+    () => orderedPromptResults(auditRun, activePrompt),
+    [auditRun, activePrompt]
   );
 
   if (!prompts.length) {
@@ -41,7 +42,7 @@ export default function PromptDetail({ auditRun }: { auditRun: AuditRun }) {
       <label className="block">
         <span className="eyebrow mb-2 block">Prompt</span>
         <select
-          value={selectedPrompt}
+          value={activePrompt}
           onChange={(event) => setSelectedPrompt(event.target.value)}
           className="w-full rounded border border-rule bg-surface px-4 py-3 text-sm text-ink outline-none focus:border-accent"
         >

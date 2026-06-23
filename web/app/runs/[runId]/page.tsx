@@ -1,6 +1,6 @@
 import { notFound } from "next/navigation";
 import Dashboard from "../../../components/Dashboard";
-import { getAllRunIds, getRun } from "../../../lib/loadRuns";
+import { getAllRunIds, getAllRuns } from "../../../lib/loadRuns";
 
 export const dynamic = "force-static";
 
@@ -9,9 +9,9 @@ export function generateStaticParams() {
 }
 
 export default function RunPage({ params }: { params: { runId: string } }) {
-  try {
-    return <Dashboard auditRun={getRun(params.runId)} />;
-  } catch {
+  const runBundle = getAllRuns();
+  if (!runBundle.runs.some((run) => run.manifest.run_id === params.runId)) {
     notFound();
   }
+  return <Dashboard runBundle={runBundle} initialRunId={params.runId} />;
 }

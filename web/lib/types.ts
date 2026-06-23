@@ -69,3 +69,13 @@ export type RunIndex = {
   latest: string | null;
   runs: RunIndexEntry[];
 };
+
+export type LoadedRun = {
+  manifest: RunIndexEntry;
+  auditRun: AuditRun;
+};
+
+export type LoadedRuns = {
+  manifest: RunIndex;
+  runs: LoadedRun[];
+};

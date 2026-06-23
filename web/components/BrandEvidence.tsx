@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useMemo } from "react";
 import { brandRecord, usable } from "../lib/score";
 import type { AuditRun, ScoreReport } from "../lib/types";
 
@@ -37,7 +37,7 @@ export default function BrandEvidence({
   primaryBrand: string;
 }) {
   const brands = report.tracked_brands;
-  const [selectedBrand, setSelectedBrand] = useState(primaryBrand || brands[0] || "");
+  const selectedBrand = brands.includes(primaryBrand) ? primaryBrand : brands[0] || "";
 
   const surfaced = useMemo(() => {
     return auditRun.prompts
@@ -98,21 +98,6 @@ export default function BrandEvidence({
 
   return (
     <div className="space-y-6">
-      <label className="block">
-        <span className="eyebrow mb-2 block">Brand</span>
-        <select
-          value={selectedBrand}
-          onChange={(event) => setSelectedBrand(event.target.value)}
-          className="w-full rounded border border-rule bg-surface px-4 py-3 text-sm text-ink outline-none focus:border-accent"
-        >
-          {brands.map((brand) => (
-            <option key={brand} value={brand}>
-              {brand}
-            </option>
-          ))}
-        </select>
-      </label>
-
       <div className="grid gap-6 lg:grid-cols-2">
         <EvidenceColumn title="Surfaced on">
           {surfaced.length ? (
