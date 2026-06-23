@@ -1,0 +1,1083 @@
+{
+  "run_id": "20260623-133337",
+  "category": "AI SEO tools",
+  "tracked_brands": [
+    "AthenaHQ",
+    "Surfer",
+    "Clearscope"
+  ],
+  "engines": [
+    "groq-llama",
+    "ollama-llama"
+  ],
+  "prompt_count": 18,
+  "prompts": [
+    "what are the best ai seo tools for content optimization",
+    "ai seo tool for small business",
+    "most affordable ai seo tools",
+    "best ai seo tool for keyword research",
+    "ai seo tools for e-commerce websites",
+    "surfer vs athenahq for blog post optimization",
+    "what is the best ai seo tool for long tail keywords",
+    "ai seo tools with free trial",
+    "best ai seo tool for technical seo",
+    "ai seo tool for beginners",
+    "clearscope alternative",
+    "ai seo tools for enterprise companies",
+    "best ai seo tool for content creation",
+    "ai seo tool with api access",
+    "is athenahq worth the cost",
+    "best ai seo tool for local seo",
+    "ai seo tools for wordpress",
+    "what are the top ai seo tools for 2024"
+  ],
+  "results": [
+    {
+      "prompt": "what are the best ai seo tools for content optimization",
+      "engine": "groq-llama",
+      "model": "llama-3.3-70b-versatile",
+      "ok": true,
+      "error": null,
+      "latency_ms": 1450,
+      "answer": "Here are some of the best AI SEO tools for content optimization:\n\n1. **Ahrefs**: A comprehensive SEO tool that uses AI to analyze content, identify gaps, and provide optimization suggestions.\n2. **SEMrush**: Offers an AI-powered content optimization tool that analyzes content, suggests improvements, and provides technical SEO audits.\n3. **Moz**: Uses AI to analyze content, identify optimization opportunities, and provide personalized recommendations.\n4. **Fraser AI**: An AI-powered content optimization tool that analyzes content, identifies gaps, and provides suggestions for improvement.\n5. **Content Blossom**: Uses AI to analyze content, identify opportunities for improvement, and provide personalized recommendations.\n6. **Acrolinx**: An AI-powered content optimization tool that analyzes content, identifies gaps, and provides suggestions for improvement.\n7. **WordLift**: Uses AI to analyze content, identify opportunities for improvement, and provide personalized recommendations.\n8. **MarketMuse**: An AI-powered content optimization tool that analyzes content, identifies gaps, and provides suggestions for improvement.\n9. **Clearscope**: Uses AI to analyze content, identify opportunities for improvement, and provide personalized recommendations.\n10. **Surfer SEO**: An AI-powered content optimization tool that analyzes content, identifies gaps, and provides suggestions for improvement.\n\nThese tools can help with various aspects of content optimization, such as:\n\n* **Keyword research**: Identifying relevant keywords and phrases to target.\n* **Content analysis**: Analyzing existing content to identify gaps and opportunities for improvement.\n* **Content suggestions**: Providing suggestions for new content, such as topics, titles, and meta descriptions.\n* **Optimization recommendations**: Providing personalized recommendations for optimizing existing content.\n* **Technical SEO audits**: Identifying technical SEO issues and providing recommendations for improvement.\n\nWhen choosing an AI SEO tool for content optimization, consider the following factors:\n\n* **Accuracy**: How accurate are the tool's suggestions and recommendations?\n* **Ease of use**: How easy is the tool to use, and how much technical expertise is required?\n* **Integration**: Does the tool integrate with other SEO tools and platforms?\n* **Cost**: What is the cost of the tool, and is it within your budget?\n* **Support**: What kind of support does the tool offer, such as customer support, documentation, and training resources?",
+      "extraction": {
+        "brands": [
+          {
+            "name": "AthenaHQ",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Surfer",
+            "mentioned": true,
+            "position": 1,
+            "recommended": false,
+            "sentiment": "neutral",
+            "context": "Surfer SEO tool"
+          },
+          {
+            "name": "Clearscope",
+            "mentioned": true,
+            "position": 2,
+            "recommended": false,
+            "sentiment": "neutral",
+            "context": "Clearscope uses AI"
+          }
+        ],
+        "other_brands_mentioned": [
+          "Ahrefs",
+          "SEMrush",
+          "Moz",
+          "Fraser AI",
+          "Content Blossom",
+          "Acrolinx",
+          "WordLift",
+          "MarketMuse"
+        ]
+      }
+    },
+    {
+      "prompt": "what are the best ai seo tools for content optimization",
+      "engine": "ollama-llama",
+      "model": "llama3.1",
+      "ok": false,
+      "error": "404 Client Error: Not Found for url: http://127.0.0.1:11434/api/generate",
+      "latency_ms": 14,
+      "answer": "",
+      "extraction": null
+    },
+    {
+      "prompt": "ai seo tool for small business",
+      "engine": "groq-llama",
+      "model": "llama-3.3-70b-versatile",
+      "ok": true,
+      "error": null,
+      "latency_ms": 1993,
+      "answer": "As a small business, having an effective SEO strategy is crucial to increase online visibility, drive more traffic, and boost sales. Here are some AI-powered SEO tools that can help small businesses:\n\n1. **Ahrefs**: A comprehensive SEO tool that uses AI to analyze backlinks, keywords, and content. It offers features like keyword research, competitor analysis, and content optimization.\n2. **SEMrush**: An all-in-one digital marketing tool that uses AI to analyze website technical SEO, keyword strategy, and competitor analysis. It also offers features like technical SEO audits and content optimization.\n3. **Moz**: A popular SEO tool that uses AI to analyze website optimization, keyword research, and link building. It offers features like keyword research, site audits, and content optimization.\n4. **WordLift**: An AI-powered SEO tool that helps small businesses optimize their content for search engines. It offers features like entity recognition, keyword research, and content optimization.\n5. **Acrolinx**: An AI-powered content optimization tool that helps small businesses create high-quality, SEO-friendly content. It offers features like content analysis, keyword research, and optimization recommendations.\n6. **Content Blossom**: An AI-powered content generation tool that helps small businesses create high-quality, SEO-friendly content. It offers features like content generation, keyword research, and optimization recommendations.\n7. **Rank Math**: A WordPress SEO plugin that uses AI to analyze and optimize website content for search engines. It offers features like keyword research, content optimization, and technical SEO audits.\n8. **Alli AI**: An AI-powered SEO tool that helps small businesses optimize their website content for voice search. It offers features like keyword research, content optimization, and voice search optimization.\n9. **Serpstat**: An AI-powered SEO tool that offers features like keyword research, competitor analysis, and technical SEO audits. It also offers a content optimization tool that helps small businesses create high-quality, SEO-friendly content.\n10. **Long Tail Pro**: An AI-powered keyword research tool that helps small businesses find profitable keywords and phrases. It offers features like keyword research, competitor analysis, and content optimization.\n\nThese AI-powered SEO tools can help small businesses:\n\n* Improve website ranking and visibility\n* Increase organic traffic and sales\n* Optimize content for search engines and voice search\n* Analyze and improve technical SEO\n* Conduct competitor analysis and keyword research\n* Create high-quality, SEO-friendly content\n\nWhen choosing an AI-powered SEO tool, consider the following factors:\n\n* Ease of use and user interface\n* Features and functionality\n* Pricing and scalability\n* Customer support and documentation\n* Integration with other marketing tools and platforms\n\nBy leveraging these AI-powered SEO tools, small businesses can improve their online presence, drive more traffic, and boost sales.",
+      "extraction": {
+        "brands": [
+          {
+            "name": "AthenaHQ",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Surfer",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Clearscope",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          }
+        ],
+        "other_brands_mentioned": [
+          "Ahrefs",
+          "SEMrush",
+          "Moz",
+          "WordLift",
+          "Acrolinx",
+          "Content Blossom",
+          "Rank Math",
+          "Alli AI",
+          "Serpstat",
+          "Long Tail Pro"
+        ]
+      }
+    },
+    {
+      "prompt": "ai seo tool for small business",
+      "engine": "ollama-llama",
+      "model": "llama3.1",
+      "ok": false,
+      "error": "404 Client Error: Not Found for url: http://127.0.0.1:11434/api/generate",
+      "latency_ms": 36,
+      "answer": "",
+      "extraction": null
+    },
+    {
+      "prompt": "most affordable ai seo tools",
+      "engine": "groq-llama",
+      "model": "llama-3.3-70b-versatile",
+      "ok": true,
+      "error": null,
+      "latency_ms": 1534,
+      "answer": "Here are some of the most affordable AI SEO tools:\n\n1. **Ahrefs**: Offers a basic plan for $99/month, which includes keyword research, backlink analysis, and content optimization.\n2. **SEMrush**: Provides a pro plan for $119.95/month, which includes technical SEO audits, keyword research, and competitor analysis.\n3. **Moz**: Offers a standard plan for $99/month, which includes keyword research, link building, and content optimization.\n4. **Ubersuggest**: A budget-friendly tool that offers a basic plan for $29/month, which includes keyword research, content ideas, and backlink analysis.\n5. **Long Tail Pro**: A keyword research tool that offers a starter plan for $25/month, which includes keyword research and competitor analysis.\n6. **KWFinder**: A keyword research tool that offers a basic plan for $29/month, which includes keyword research and competitor analysis.\n7. **Serpstat**: A comprehensive SEO tool that offers a basic plan for $69/month, which includes keyword research, backlink analysis, and technical SEO audits.\n8. **Rank Tracker**: A tool that offers a basic plan for $19/month, which includes keyword tracking and competitor analysis.\n9. **Keyword Tool**: A free tool that offers a basic plan, which includes keyword research and content ideas.\n10. **AnswerThePublic**: A free tool that offers keyword research and content ideas.\n\nAI-powered SEO tools:\n\n1. **WordLift**: An AI-powered content optimization tool that offers a basic plan for $19/month.\n2. **Content Blossom**: An AI-powered content generation tool that offers a basic plan for $29/month.\n3. **Acrolinx**: An AI-powered content optimization tool that offers a basic plan for $99/month.\n4. **MarketMuse**: An AI-powered content optimization tool that offers a basic plan for $99/month.\n5. **Clearscope**: An AI-powered content optimization tool that offers a basic plan for $35/month.\n\nPlease note that prices may vary depending on the plan and features you choose. It's always a good idea to try out a tool's free trial or demo before committing to a paid plan.\n\nWhen choosing an AI SEO tool, consider the following factors:\n\n1. **Features**: What features do you need? (e.g., keyword research, backlink analysis, content optimization)\n2. **Pricing**: What is your budget?\n3. **Ease of use**: How easy is the tool to use?\n4. **Support**: What kind of support does the tool offer? (e.g., customer support, tutorials, documentation)\n5. **Integration**: Does the tool integrate with other tools you use?",
+      "extraction": {
+        "brands": [
+          {
+            "name": "AthenaHQ",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Surfer",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Clearscope",
+            "mentioned": true,
+            "position": 1,
+            "recommended": false,
+            "sentiment": "neutral",
+            "context": "AI-powered content optimization"
+          }
+        ],
+        "other_brands_mentioned": [
+          "Ahrefs",
+          "SEMrush",
+          "Moz",
+          "Ubersuggest",
+          "Long Tail Pro",
+          "KWFinder",
+          "Serpstat",
+          "Rank Tracker",
+          "Keyword Tool",
+          "AnswerThePublic",
+          "WordLift",
+          "Content Blossom",
+          "Acrolinx",
+          "MarketMuse"
+        ]
+      }
+    },
+    {
+      "prompt": "most affordable ai seo tools",
+      "engine": "ollama-llama",
+      "model": "llama3.1",
+      "ok": false,
+      "error": "404 Client Error: Not Found for url: http://127.0.0.1:11434/api/generate",
+      "latency_ms": 7,
+      "answer": "",
+      "extraction": null
+    },
+    {
+      "prompt": "best ai seo tool for keyword research",
+      "engine": "groq-llama",
+      "model": "llama-3.3-70b-versatile",
+      "ok": true,
+      "error": null,
+      "latency_ms": 1939,
+      "answer": "Here are some of the best AI-powered SEO tools for keyword research:\n\n1. **Ahrefs**: Ahrefs uses AI to analyze large datasets and provide insights on keyword trends, competitor analysis, and content optimization. Its keyword research tool offers features like keyword clustering, content gap analysis, and keyword difficulty scoring.\n2. **SEMrush**: SEMrush's keyword research tool uses AI to identify relevant keywords, analyze competitor strategies, and provide recommendations for content optimization. It also offers features like keyword clustering, technical SEO audits, and backlink analysis.\n3. **Moz Keyword Explorer**: Moz's keyword research tool uses AI to analyze search volume, competition, and keyword suggestions. It also offers features like keyword prioritization, content optimization, and competitor analysis.\n4. **Long Tail Pro**: Long Tail Pro uses AI to identify long-tail keywords with low competition and high search volume. It also offers features like keyword filtering, competitor analysis, and content optimization.\n5. **KWFinder**: KWFinder uses AI to analyze keyword trends, competitor analysis, and content optimization. It offers features like keyword suggestions, technical SEO audits, and backlink analysis.\n6. **Ubersuggest**: Ubersuggest uses AI to generate keyword ideas, analyze competitor strategies, and provide recommendations for content optimization. It also offers features like keyword filtering, content optimization, and technical SEO audits.\n7. **AnswerThePublic**: AnswerThePublic uses AI to generate keyword ideas based on questions people ask on the internet. It offers features like keyword filtering, content optimization, and competitor analysis.\n8. **Keyword Tool**: Keyword Tool uses AI to generate keyword ideas based on Google Autocomplete, Google Trends, and other sources. It offers features like keyword filtering, content optimization, and competitor analysis.\n9. **Serpstat**: Serpstat uses AI to analyze keyword trends, competitor analysis, and content optimization. It offers features like keyword clustering, technical SEO audits, and backlink analysis.\n10. **H-Supertools**: H-Supertools uses AI to generate keyword ideas, analyze competitor strategies, and provide recommendations for content optimization. It also offers features like keyword filtering, content optimization, and technical SEO audits.\n\nWhen choosing an AI-powered SEO tool for keyword research, consider the following factors:\n\n1. **Accuracy**: Look for tools that provide accurate keyword data and insights.\n2. **Comprehensive features**: Choose tools that offer a range of features, including keyword research, competitor analysis, and content optimization.\n3. **User interface**: Opt for tools with user-friendly interfaces that make it easy to navigate and understand the data.\n4. **Pricing**: Consider the cost of the tool and whether it fits within your budget.\n5. **Customer support**: Look for tools with reliable customer support and resources to help you get the most out of the tool.\n\nUltimately, the best AI-powered SEO tool for keyword research will depend on your specific needs and goals. Be sure to try out a few options to see which one works best for you.",
+      "extraction": {
+        "brands": [
+          {
+            "name": "AthenaHQ",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Surfer",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Clearscope",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          }
+        ],
+        "other_brands_mentioned": [
+          "Ahrefs",
+          "SEMrush",
+          "Moz",
+          "Long Tail Pro",
+          "KWFinder",
+          "Ubersuggest",
+          "AnswerThePublic",
+          "Keyword Tool",
+          "Serpstat",
+          "H-Supertools"
+        ]
+      }
+    },
+    {
+      "prompt": "best ai seo tool for keyword research",
+      "engine": "ollama-llama",
+      "model": "llama3.1",
+      "ok": false,
+      "error": "404 Client Error: Not Found for url: http://127.0.0.1:11434/api/generate",
+      "latency_ms": 5,
+      "answer": "",
+      "extraction": null
+    },
+    {
+      "prompt": "ai seo tools for e-commerce websites",
+      "engine": "groq-llama",
+      "model": "llama-3.3-70b-versatile",
+      "ok": true,
+      "error": null,
+      "latency_ms": 2017,
+      "answer": "Here are some AI-powered SEO tools that can help optimize e-commerce websites:\n\n1. **Ahrefs**: A comprehensive SEO tool that uses AI to analyze backlinks, keywords, and content, providing insights to improve e-commerce website rankings.\n2. **SEMrush**: An all-in-one SEO tool that uses AI to audit websites, identify technical issues, and provide recommendations for improvement, including keyword research and content optimization.\n3. **Moz**: A suite of SEO tools that uses AI to analyze website rankings, track keywords, and provide insights on link building and content optimization.\n4. **Google Analytics 360**: A paid version of Google Analytics that uses AI to analyze website data, providing insights on user behavior, conversion rates, and revenue.\n5. **Adobe Sensei**: An AI-powered SEO tool that analyzes website data, providing insights on user behavior, personalization, and content optimization.\n6. **WordLift**: An AI-powered content optimization tool that helps e-commerce websites create high-quality, keyword-optimized content.\n7. **Acrolinx**: An AI-powered content optimization tool that analyzes and improves content quality, clarity, and consistency across e-commerce websites.\n8. **Sistrix**: An AI-powered SEO tool that analyzes website rankings, track keywords, and provide insights on link building and content optimization.\n9. **Content Blossom**: An AI-powered content optimization tool that helps e-commerce websites create high-quality, keyword-optimized content.\n10. **Rank Ranger**: An AI-powered SEO tool that tracks website rankings, provides insights on keyword research, and offers recommendations for improvement.\n\n**AI-powered SEO features for e-commerce websites:**\n\n1. **Keyword research**: AI-powered tools can analyze search data and identify relevant keywords for e-commerce websites.\n2. **Content optimization**: AI-powered tools can analyze content and provide recommendations for improvement, including keyword optimization and readability.\n3. **Technical SEO audits**: AI-powered tools can analyze website technical issues, such as page speed, mobile responsiveness, and SSL encryption.\n4. **Link building**: AI-powered tools can analyze backlink profiles and provide insights on link building opportunities.\n5. **Personalization**: AI-powered tools can analyze user behavior and provide insights on personalization opportunities, such as product recommendations and content targeting.\n6. **Predictive analytics**: AI-powered tools can analyze website data and provide insights on future trends and opportunities.\n7. **Content generation**: AI-powered tools can generate high-quality content, such as product descriptions and blog posts.\n8. **Image optimization**: AI-powered tools can analyze and optimize images for e-commerce websites, including image compression and alt tags.\n\n**Benefits of using AI-powered SEO tools for e-commerce websites:**\n\n1. **Improved rankings**: AI-powered SEO tools can help e-commerce websites improve their search engine rankings and drive more organic traffic.\n2. **Increased conversions**: AI-powered SEO tools can help e-commerce websites increase conversions and revenue by optimizing content and user experience.\n3. **Enhanced user experience**: AI-powered SEO tools can help e-commerce websites provide a better user experience, including personalized product recommendations and content.\n4. **Competitive advantage**: AI-powered SEO tools can help e-commerce websites gain a competitive advantage by providing insights on market trends and opportunities.\n5. **Time savings**: AI-powered SEO tools can help e-commerce websites save time and resources by automating SEO tasks and providing insights on optimization opportunities.",
+      "extraction": {
+        "brands": [
+          {
+            "name": "AthenaHQ",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Surfer",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Clearscope",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          }
+        ],
+        "other_brands_mentioned": [
+          "Ahrefs",
+          "SEMrush",
+          "Moz",
+          "Google Analytics 360",
+          "Adobe Sensei",
+          "WordLift",
+          "Acrolinx",
+          "Sistrix",
+          "Content Blossom",
+          "Rank Ranger"
+        ]
+      }
+    },
+    {
+      "prompt": "ai seo tools for e-commerce websites",
+      "engine": "ollama-llama",
+      "model": "llama3.1",
+      "ok": false,
+      "error": "404 Client Error: Not Found for url: http://127.0.0.1:11434/api/generate",
+      "latency_ms": 9,
+      "answer": "",
+      "extraction": null
+    },
+    {
+      "prompt": "surfer vs athenahq for blog post optimization",
+      "engine": "groq-llama",
+      "model": "llama-3.3-70b-versatile",
+      "ok": true,
+      "error": null,
+      "latency_ms": 2180,
+      "answer": "Surfer and Ahrefs' (not Athena, possibly a typo) are two popular tools used for blog post optimization. Here's a comparison of their features and capabilities:\n\n**Surfer:**\n\n1. **Content optimization**: Surfer uses AI to analyze top-performing content and provides recommendations for improvement.\n2. **Keyword research**: Surfer offers keyword research and suggests relevant terms to include in your content.\n3. **Content auditing**: Surfer's audit tool helps identify areas for improvement in your existing content.\n4. **Real-time analysis**: Surfer provides real-time analysis and suggestions as you write your content.\n5. **Integration**: Surfer integrates with popular content management systems (CMS) like WordPress and Google Docs.\n\n**Ahrefs:**\n\n1. **Keyword research**: Ahrefs is known for its comprehensive keyword research tool, which provides detailed insights and suggestions.\n2. **Content analysis**: Ahrefs' content analysis tool helps you identify gaps in your content and provides recommendations for improvement.\n3. **Backlink analysis**: Ahrefs offers in-depth backlink analysis, which can help you identify opportunities for link building.\n4. **Content optimization**: Ahrefs provides suggestions for optimizing your content, including keyword usage and internal linking.\n5. **SEO audit**: Ahrefs' SEO audit tool helps identify technical SEO issues and provides recommendations for improvement.\n\n**Comparison:**\n\n1. **Focus**: Surfer is primarily focused on content optimization, while Ahrefs is a more comprehensive SEO toolset.\n2. **Keyword research**: Ahrefs is generally considered to have more advanced keyword research capabilities.\n3. **Content analysis**: Both tools offer content analysis, but Surfer's AI-powered approach provides more detailed suggestions.\n4. **Integration**: Surfer has more seamless integrations with popular CMS and writing tools.\n5. **Pricing**: Surfer is generally more affordable, with plans starting at $29/month, while Ahrefs plans start at $99/month.\n\n**AthenaHQ ( possibly a new or less known tool)**\n\nIf AthenaHQ is a new or less known tool, it might be challenging to find information about it. However, if you're considering AthenaHQ, here are some questions to ask:\n\n1. **What features does AthenaHQ offer?** Does it provide keyword research, content analysis, and optimization suggestions?\n2. **How does AthenaHQ compare to Surfer and Ahrefs?** What are its strengths and weaknesses?\n3. **What is the pricing model for AthenaHQ?** Is it competitive with Surfer and Ahrefs?\n\nUltimately, the choice between Surfer, Ahrefs, and AthenaHQ (if it's a viable option) depends on your specific needs and preferences. If you're looking for a tool specifically designed for content optimization, Surfer might be the better choice. If you need a more comprehensive SEO toolset, Ahrefs might be the way to go.",
+      "extraction": {
+        "brands": [
+          {
+            "name": "AthenaHQ",
+            "mentioned": true,
+            "position": 1,
+            "recommended": false,
+            "sentiment": "neutral",
+            "context": "surfer vs athenahq"
+          },
+          {
+            "name": "Surfer",
+            "mentioned": true,
+            "position": 2,
+            "recommended": false,
+            "sentiment": "positive",
+            "context": "content optimization tool"
+          },
+          {
+            "name": "Clearscope",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          }
+        ],
+        "other_brands_mentioned": [
+          "Ahrefs"
+        ]
+      }
+    },
+    {
+      "prompt": "surfer vs athenahq for blog post optimization",
+      "engine": "ollama-llama",
+      "model": "llama3.1",
+      "ok": false,
+      "error": "404 Client Error: Not Found for url: http://127.0.0.1:11434/api/generate",
+      "latency_ms": 7,
+      "answer": "",
+      "extraction": null
+    },
+    {
+      "prompt": "what is the best ai seo tool for long tail keywords",
+      "engine": "groq-llama",
+      "model": "llama-3.3-70b-versatile",
+      "ok": true,
+      "error": null,
+      "latency_ms": 1708,
+      "answer": "There are several excellent AI SEO tools that can help you find and optimize long-tail keywords. Here are some of the best ones:\n\n1. **Ahrefs**: Ahrefs is a comprehensive SEO tool that offers a keyword research feature powered by AI. It can help you find long-tail keywords, analyze their competition, and provide suggestions for optimization.\n2. **SEMrush**: SEMrush is another popular SEO tool that offers a keyword research feature with AI-powered suggestions. It can help you identify long-tail keywords, analyze their search volume, and provide recommendations for optimization.\n3. **Moz Keyword Explorer**: Moz Keyword Explorer is a powerful keyword research tool that uses AI to suggest long-tail keywords. It can help you identify keyword opportunities, analyze their competition, and provide suggestions for optimization.\n4. **Long Tail Pro**: Long Tail Pro is a specialized keyword research tool that uses AI to find long-tail keywords. It can help you identify keywords with low competition and high search volume.\n5. **KWFinder**: KWFinder is a keyword research tool that uses AI to suggest long-tail keywords. It can help you identify keywords with low competition and high search volume.\n6. **Ubersuggest**: Ubersuggest is a free keyword research tool that uses AI to suggest long-tail keywords. It can help you identify keywords with low competition and high search volume.\n7. **AnswerThePublic**: AnswerThePublic is a free keyword research tool that uses AI to suggest long-tail keywords based on questions people ask on the internet.\n8. **Keyword Tool**: Keyword Tool is a free keyword research tool that uses AI to suggest long-tail keywords based on Google Autocomplete.\n9. **LSI Graph**: LSI Graph is a keyword research tool that uses AI to suggest long-tail keywords based on Latent Semantic Indexing (LSI).\n10. **H-Supertools**: H-Supertools is a free keyword research tool that uses AI to suggest long-tail keywords based on Google Autocomplete and other sources.\n\nWhen choosing the best AI SEO tool for long-tail keywords, consider the following factors:\n\n1. **Accuracy**: Look for tools that provide accurate keyword suggestions and search volume estimates.\n2. **Competition analysis**: Choose tools that can analyze competition and provide suggestions for optimization.\n3. **User interface**: Opt for tools with a user-friendly interface that makes it easy to find and analyze keywords.\n4. **Pricing**: Consider the cost of the tool and whether it fits within your budget.\n5. **Integration**: Look for tools that integrate with other SEO tools and platforms.\n\nUltimately, the best AI SEO tool for long-tail keywords will depend on your specific needs and preferences. I recommend trying out a few options to see which one works best for you.",
+      "extraction": {
+        "brands": [
+          {
+            "name": "AthenaHQ",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Surfer",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Clearscope",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          }
+        ],
+        "other_brands_mentioned": [
+          "Ahrefs",
+          "SEMrush",
+          "Moz",
+          "Long Tail Pro",
+          "KWFinder",
+          "Ubersuggest",
+          "AnswerThePublic",
+          "Keyword Tool",
+          "H-Supertools",
+          "LSI Graph"
+        ]
+      }
+    },
+    {
+      "prompt": "what is the best ai seo tool for long tail keywords",
+      "engine": "ollama-llama",
+      "model": "llama3.1",
+      "ok": false,
+      "error": "404 Client Error: Not Found for url: http://127.0.0.1:11434/api/generate",
+      "latency_ms": 6,
+      "answer": "",
+      "extraction": null
+    },
+    {
+      "prompt": "ai seo tools with free trial",
+      "engine": "groq-llama",
+      "model": "llama-3.3-70b-versatile",
+      "ok": true,
+      "error": null,
+      "latency_ms": 1724,
+      "answer": "Here are some popular AI SEO tools that offer a free trial:\n\n1. **Ahrefs**: Ahrefs is an all-in-one SEO tool that offers a 7-day free trial. It includes features like keyword research, backlink analysis, and content optimization.\n2. **SEMrush**: SEMrush is a comprehensive SEO tool that offers a 14-day free trial. It includes features like technical SEO audits, keyword research, and competitor analysis.\n3. **Moz Pro**: Moz Pro is a suite of SEO tools that offers a 30-day free trial. It includes features like keyword research, link building, and content optimization.\n4. **Long Tail Pro**: Long Tail Pro is a keyword research tool that offers a 10-day free trial. It helps you find profitable keywords and phrases for your content.\n5. **KWFinder**: KWFinder is a keyword research tool that offers a 10-day free trial. It helps you find long-tail keywords and phrases with low competition.\n6. **Ubersuggest**: Ubersuggest is a keyword research tool that offers a 7-day free trial. It helps you find keywords and phrases with high search volume and low competition.\n7. **Serpstat**: Serpstat is an all-in-one SEO tool that offers a 7-day free trial. It includes features like keyword research, backlink analysis, and technical SEO audits.\n8. **Rank Tracker**: Rank Tracker is a tool that helps you track your website's rankings on search engines. It offers a 7-day free trial.\n9. **Content Blossom**: Content Blossom is an AI-powered content optimization tool that offers a 14-day free trial. It helps you optimize your content for better search engine rankings.\n10. **WordLift**: WordLift is an AI-powered content optimization tool that offers a 14-day free trial. It helps you optimize your content for better search engine rankings and user engagement.\n\nPlease note that some of these tools may require a credit card to sign up for the free trial, and you may be charged if you don't cancel before the trial period ends.\n\nBefore choosing an AI SEO tool, consider the following factors:\n\n* Features: What features do you need to improve your website's SEO?\n* Pricing: What is the cost of the tool after the free trial ends?\n* Ease of use: How easy is the tool to use, especially if you're new to SEO?\n* Customer support: What kind of support does the tool offer, such as documentation, tutorials, and customer service?\n* Reviews: What do other users say about the tool, and are there any negative reviews or complaints?",
+      "extraction": {
+        "brands": [
+          {
+            "name": "AthenaHQ",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Surfer",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Clearscope",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          }
+        ],
+        "other_brands_mentioned": [
+          "Ahrefs",
+          "SEMrush",
+          "Moz Pro",
+          "Long Tail Pro",
+          "KWFinder",
+          "Ubersuggest",
+          "Serpstat",
+          "Rank Tracker",
+          "Content Blossom",
+          "WordLift"
+        ]
+      }
+    },
+    {
+      "prompt": "ai seo tools with free trial",
+      "engine": "ollama-llama",
+      "model": "llama3.1",
+      "ok": false,
+      "error": "404 Client Error: Not Found for url: http://127.0.0.1:11434/api/generate",
+      "latency_ms": 5,
+      "answer": "",
+      "extraction": null
+    },
+    {
+      "prompt": "best ai seo tool for technical seo",
+      "engine": "groq-llama",
+      "model": "llama-3.3-70b-versatile",
+      "ok": true,
+      "error": null,
+      "latency_ms": 2902,
+      "answer": "Here are some of the best AI-powered SEO tools for technical SEO:\n\n1. **Ahrefs**: Ahrefs is a comprehensive SEO tool that uses AI to analyze backlinks, content, and technical SEO issues. It offers features like keyword research, site audits, and content optimization.\n2. **SEMrush**: SEMrush is another popular SEO tool that uses AI to identify technical SEO issues, track keyword rankings, and analyze competitors. It offers features like site audits, technical SEO audits, and content optimization.\n3. **Moz Pro**: Moz Pro is a suite of SEO tools that uses AI to analyze technical SEO issues, track keyword rankings, and optimize content. It offers features like site audits, keyword research, and link building.\n4. **DeepCrawl**: DeepCrawl is a technical SEO tool that uses AI to crawl and analyze websites, identifying issues like broken links, duplicate content, and crawl errors.\n5. **Screaming Frog**: Screaming Frog is a technical SEO tool that uses AI to crawl and analyze websites, identifying issues like broken links, duplicate content, and crawl errors.\n6. **Content Blossom**: Content Blossom is an AI-powered content optimization tool that analyzes content and provides recommendations for improvement.\n7. **Acrolinx**: Acrolinx is an AI-powered content optimization tool that analyzes content and provides recommendations for improvement, including suggestions for technical SEO optimization.\n8. **Botify**: Botify is a technical SEO tool that uses AI to analyze website crawlability, indexing, and ranking issues.\n9. **OnCrawl**: OnCrawl is a technical SEO tool that uses AI to analyze website crawlability, indexing, and ranking issues.\n10. **Rank Ranger**: Rank Ranger is an SEO tool that uses AI to track keyword rankings, analyze competitors, and optimize content.\n\nThese tools can help with various technical SEO tasks, such as:\n\n* **Site audits**: Identifying technical SEO issues like broken links, duplicate content, and crawl errors.\n* **Keyword research**: Analyzing keyword trends and suggesting relevant keywords for optimization.\n* **Content optimization**: Analyzing content and providing recommendations for improvement, including suggestions for technical SEO optimization.\n* **Link building**: Identifying link building opportunities and analyzing backlink profiles.\n* **Crawlability and indexing**: Analyzing website crawlability and indexing issues, and providing recommendations for improvement.\n\nWhen choosing an AI-powered SEO tool for technical SEO, consider the following factors:\n\n* **Accuracy**: Look for tools that provide accurate and reliable data.\n* **Comprehensive features**: Choose tools that offer a range of features to help with technical SEO tasks.\n* **Ease of use**: Select tools that are easy to use and provide clear, actionable recommendations.\n* **Integration**: Consider tools that integrate with other SEO tools and platforms.\n* **Pricing**: Evaluate the cost of the tool and whether it fits within your budget.",
+      "extraction": {
+        "brands": [
+          {
+            "name": "AthenaHQ",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Surfer",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Clearscope",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          }
+        ],
+        "other_brands_mentioned": [
+          "Ahrefs",
+          "SEMrush",
+          "Moz Pro",
+          "DeepCrawl",
+          "Screaming Frog",
+          "Content Blossom",
+          "Acrolinx",
+          "Botify",
+          "OnCrawl",
+          "Rank Ranger"
+        ]
+      }
+    },
+    {
+      "prompt": "best ai seo tool for technical seo",
+      "engine": "ollama-llama",
+      "model": "llama3.1",
+      "ok": false,
+      "error": "404 Client Error: Not Found for url: http://127.0.0.1:11434/api/generate",
+      "latency_ms": 4,
+      "answer": "",
+      "extraction": null
+    },
+    {
+      "prompt": "ai seo tool for beginners",
+      "engine": "groq-llama",
+      "model": "llama-3.3-70b-versatile",
+      "ok": true,
+      "error": null,
+      "latency_ms": 1790,
+      "answer": "As a beginner, using an AI SEO tool can be a great way to improve your website's search engine rankings and drive more traffic to your site. Here are some popular AI SEO tools for beginners:\n\n1. **Ahrefs**: Ahrefs is a comprehensive SEO tool that uses AI to analyze your website and provide recommendations for improvement. It offers features like keyword research, backlink analysis, and content optimization.\n2. **SEMrush**: SEMrush is an all-in-one SEO tool that uses AI to audit your website, track your competitors, and provide personalized recommendations for improvement.\n3. **Moz**: Moz is a popular SEO tool that uses AI to analyze your website and provide recommendations for improvement. It offers features like keyword research, link building, and content optimization.\n4. **Ubersuggest**: Ubersuggest is a free AI-powered SEO tool that provides keyword suggestions, content ideas, and backlink analysis.\n5. **Long Tail Pro**: Long Tail Pro is a keyword research tool that uses AI to help you find profitable keywords and phrases for your website.\n6. **Keyword Tool**: Keyword Tool is a free AI-powered keyword research tool that provides keyword suggestions and content ideas.\n7. **Rank Math**: Rank Math is a WordPress SEO plugin that uses AI to optimize your website's content and meta tags for better search engine rankings.\n8. **All in One SEO Pack**: All in One SEO Pack is a WordPress SEO plugin that uses AI to optimize your website's content and meta tags for better search engine rankings.\n9. **Screaming Frog**: Screaming Frog is a website crawler that uses AI to analyze your website's structure and provide recommendations for improvement.\n10. **Content Blossom**: Content Blossom is an AI-powered content optimization tool that provides personalized recommendations for improving your website's content.\n\nWhen choosing an AI SEO tool as a beginner, consider the following factors:\n\n1. **Ease of use**: Choose a tool that is easy to use and understand, even if you have limited SEO knowledge.\n2. **Features**: Consider the features that are important to you, such as keyword research, backlink analysis, and content optimization.\n3. **Price**: Choose a tool that fits your budget, whether it's a free tool or a paid subscription.\n4. **Customer support**: Look for a tool that offers good customer support, such as tutorials, documentation, and support teams.\n5. **Integration**: Consider a tool that integrates with your website's platform, such as WordPress or Shopify.\n\nRemember, AI SEO tools are meant to assist and augment your SEO efforts, not replace them. Always use your best judgment and consider multiple sources when making SEO decisions.",
+      "extraction": {
+        "brands": [
+          {
+            "name": "AthenaHQ",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Surfer",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Clearscope",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          }
+        ],
+        "other_brands_mentioned": [
+          "Ahrefs",
+          "SEMrush",
+          "Moz",
+          "Ubersuggest",
+          "Long Tail Pro",
+          "Keyword Tool",
+          "Rank Math",
+          "All in One SEO Pack",
+          "Screaming Frog",
+          "Content Blossom"
+        ]
+      }
+    },
+    {
+      "prompt": "ai seo tool for beginners",
+      "engine": "ollama-llama",
+      "model": "llama3.1",
+      "ok": false,
+      "error": "404 Client Error: Not Found for url: http://127.0.0.1:11434/api/generate",
+      "latency_ms": 9,
+      "answer": "",
+      "extraction": null
+    },
+    {
+      "prompt": "clearscope alternative",
+      "engine": "groq-llama",
+      "model": "llama-3.3-70b-versatile",
+      "ok": true,
+      "error": null,
+      "latency_ms": 1670,
+      "answer": "Clearscope is a popular tool for optimizing content with AI-driven keyword research and content analysis. If you're looking for alternatives, here are some options:\n\n1. **Ahrefs**: A comprehensive SEO toolset that includes keyword research, content analysis, and optimization features.\n2. **SEMrush**: A digital marketing platform that offers keyword research, technical SEO audits, and content optimization tools.\n3. **Moz**: A suite of SEO tools that includes keyword research, link building, and content optimization features.\n4. **Fraser AI**: A content optimization tool that uses AI to analyze and suggest improvements for your content.\n5. **Content Blossom**: A tool that uses AI to analyze your content and provide suggestions for improvement, including keyword research and optimization.\n6. **WordLift**: A WordPress plugin that uses AI to analyze and optimize your content for better search engine rankings.\n7. **Acrolinx**: A content optimization platform that uses AI to analyze and improve your content's clarity, consistency, and SEO.\n8. **MarketMuse**: A content optimization tool that uses AI to analyze and suggest improvements for your content, including keyword research and optimization.\n9. **Content Auditor**: A tool that analyzes your content and provides suggestions for improvement, including keyword research and optimization.\n10. **Surfer SEO**: A content optimization tool that uses AI to analyze and suggest improvements for your content, including keyword research and optimization.\n\nThese alternatives offer a range of features and pricing plans, so it's worth exploring each option to find the one that best fits your needs and budget.\n\n**Comparison of features:**\n\n* Keyword research: Ahrefs, SEMrush, Moz, Fraser AI, Content Blossom\n* Content analysis: Ahrefs, SEMrush, Moz, Fraser AI, Content Blossom, WordLift\n* AI-driven optimization: Fraser AI, Content Blossom, WordLift, Acrolinx, MarketMuse\n* SEO audits: Ahrefs, SEMrush, Moz\n* Content improvement suggestions: Ahrefs, SEMrush, Moz, Fraser AI, Content Blossom, WordLift\n\n**Pricing:**\n\n* Ahrefs: $99-$999/month\n* SEMrush: $99-$449/month\n* Moz: $99-$599/month\n* Fraser AI: custom pricing\n* Content Blossom: $29-$99/month\n* WordLift: $19-$49/month\n* Acrolinx: custom pricing\n* MarketMuse: $99-$499/month\n* Content Auditor: $29-$99/month\n* Surfer SEO: $29-$99/month\n\nKeep in mind that prices may vary depending on the plan and features you choose.",
+      "extraction": {
+        "brands": [
+          {
+            "name": "AthenaHQ",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Surfer",
+            "mentioned": true,
+            "position": 2,
+            "recommended": false,
+            "sentiment": "neutral",
+            "context": "Surfer SEO content optimization"
+          },
+          {
+            "name": "Clearscope",
+            "mentioned": true,
+            "position": 1,
+            "recommended": false,
+            "sentiment": "neutral",
+            "context": "Clearscope is a popular tool"
+          }
+        ],
+        "other_brands_mentioned": [
+          "Ahrefs",
+          "SEMrush",
+          "Moz",
+          "Fraser AI",
+          "Content Blossom",
+          "WordLift",
+          "Acrolinx",
+          "MarketMuse",
+          "Content Auditor"
+        ]
+      }
+    },
+    {
+      "prompt": "clearscope alternative",
+      "engine": "ollama-llama",
+      "model": "llama3.1",
+      "ok": false,
+      "error": "404 Client Error: Not Found for url: http://127.0.0.1:11434/api/generate",
+      "latency_ms": 4,
+      "answer": "",
+      "extraction": null
+    },
+    {
+      "prompt": "ai seo tools for enterprise companies",
+      "engine": "groq-llama",
+      "model": "llama-3.3-70b-versatile",
+      "ok": true,
+      "error": null,
+      "latency_ms": 2144,
+      "answer": "Here are some AI-powered SEO tools that can benefit enterprise companies:\n\n1. **Ahrefs**: A comprehensive SEO tool that uses AI to analyze backlinks, keywords, and content. It offers features like keyword research, competitor analysis, and content optimization.\n2. **SEMrush**: A digital marketing tool that uses AI to analyze website technical SEO, content, and backlinks. It offers features like technical SEO audits, competitor analysis, and content optimization.\n3. **Moz**: A SEO tool that uses AI to analyze website authority, backlinks, and content. It offers features like keyword research, competitor analysis, and content optimization.\n4. **BrightEdge**: An enterprise SEO platform that uses AI to analyze website content, backlinks, and technical SEO. It offers features like content optimization, competitor analysis, and technical SEO audits.\n5. **Conductor**: A SEO platform that uses AI to analyze website content, backlinks, and technical SEO. It offers features like content optimization, competitor analysis, and technical SEO audits.\n6. **Acrolinx**: An AI-powered content optimization platform that analyzes and improves content quality, clarity, and consistency.\n7. **WordLift**: An AI-powered content optimization platform that analyzes and improves content quality, readability, and SEO.\n8. **Content Blossom**: An AI-powered content optimization platform that analyzes and improves content quality, readability, and SEO.\n9. **SISTRIX**: A SEO tool that uses AI to analyze website content, backlinks, and technical SEO. It offers features like keyword research, competitor analysis, and content optimization.\n10. **Linkdex**: A SEO tool that uses AI to analyze backlinks, content, and technical SEO. It offers features like link building, competitor analysis, and content optimization.\n\nThese AI-powered SEO tools can help enterprise companies with:\n\n1. **Keyword research**: Identifying relevant keywords and phrases to target.\n2. **Content optimization**: Improving content quality, readability, and SEO.\n3. **Competitor analysis**: Analyzing competitors' websites, backlinks, and content.\n4. **Technical SEO audits**: Identifying technical SEO issues and providing recommendations for improvement.\n5. **Backlink analysis**: Analyzing backlinks and identifying opportunities for link building.\n6. **Content creation**: Generating high-quality, SEO-optimized content.\n7. **SEO strategy**: Developing a comprehensive SEO strategy tailored to the company's goals and needs.\n\nWhen choosing an AI-powered SEO tool, consider the following factors:\n\n1. **Scalability**: Can the tool handle large volumes of data and scale with your company's growth?\n2. **Accuracy**: How accurate are the tool's analyses and recommendations?\n3. **Ease of use**: Is the tool user-friendly and easy to navigate?\n4. **Integration**: Can the tool integrate with other marketing tools and platforms?\n5. **Support**: What kind of support and training does the tool offer?\n6. **Cost**: What is the cost of the tool, and is it within your budget?\n7. **Customization**: Can the tool be customized to meet your company's specific needs and goals?",
+      "extraction": {
+        "brands": [
+          {
+            "name": "AthenaHQ",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Surfer",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Clearscope",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          }
+        ],
+        "other_brands_mentioned": [
+          "Ahrefs",
+          "SEMrush",
+          "Moz",
+          "BrightEdge",
+          "Conductor",
+          "Acrolinx",
+          "WordLift",
+          "Content Blossom",
+          "SISTRIX",
+          "Linkdex"
+        ]
+      }
+    },
+    {
+      "prompt": "ai seo tools for enterprise companies",
+      "engine": "ollama-llama",
+      "model": "llama3.1",
+      "ok": false,
+      "error": "404 Client Error: Not Found for url: http://127.0.0.1:11434/api/generate",
+      "latency_ms": 5,
+      "answer": "",
+      "extraction": null
+    },
+    {
+      "prompt": "best ai seo tool for content creation",
+      "engine": "groq-llama",
+      "model": "llama-3.3-70b-versatile",
+      "ok": true,
+      "error": null,
+      "latency_ms": 1727,
+      "answer": "Here are some of the best AI SEO tools for content creation:\n\n1. **Ahrefs**: Ahrefs is a comprehensive SEO tool that uses AI to analyze content and provide suggestions for improvement. It offers features like keyword research, content analysis, and backlink analysis.\n2. **SEMrush**: SEMrush is another popular SEO tool that uses AI to analyze content and provide recommendations for improvement. It offers features like technical SEO audits, keyword research, and competitor analysis.\n3. **Fraser AI**: Fraser AI is an AI-powered content optimization tool that analyzes content and provides suggestions for improvement. It offers features like keyword research, content analysis, and readability scoring.\n4. **WordLift**: WordLift is an AI-powered content optimization tool that uses natural language processing (NLP) to analyze content and provide suggestions for improvement. It offers features like entity recognition, keyword research, and content recommendations.\n5. **Acrolinx**: Acrolinx is an AI-powered content optimization tool that analyzes content and provides suggestions for improvement. It offers features like grammar and spell checking, readability scoring, and content recommendations.\n6. **Content Blossom**: Content Blossom is an AI-powered content creation tool that uses machine learning to generate high-quality content. It offers features like content generation, content optimization, and content analysis.\n7. **Article Forge**: Article Forge is an AI-powered content creation tool that uses machine learning to generate high-quality content. It offers features like content generation, content optimization, and content analysis.\n8. **Long Tail Pro**: Long Tail Pro is a keyword research tool that uses AI to analyze keywords and provide suggestions for content creation. It offers features like keyword research, competitor analysis, and content recommendations.\n9. **KWFinder**: KWFinder is a keyword research tool that uses AI to analyze keywords and provide suggestions for content creation. It offers features like keyword research, competitor analysis, and content recommendations.\n10. **Surfer SEO**: Surfer SEO is an AI-powered SEO tool that analyzes content and provides suggestions for improvement. It offers features like content analysis, keyword research, and competitor analysis.\n\nThese tools can help with various aspects of content creation, such as:\n\n* Keyword research and suggestion\n* Content analysis and optimization\n* Content generation and automation\n* Readability scoring and improvement\n* Competitor analysis and benchmarking\n* Technical SEO audits and recommendations\n\nKeep in mind that while AI SEO tools can be incredibly helpful, they should be used in conjunction with human judgment and expertise to ensure the best possible results.",
+      "extraction": {
+        "brands": [
+          {
+            "name": "AthenaHQ",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Surfer",
+            "mentioned": true,
+            "position": 1,
+            "recommended": false,
+            "sentiment": "neutral",
+            "context": "Surfer SEO is an AI-powered"
+          },
+          {
+            "name": "Clearscope",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          }
+        ],
+        "other_brands_mentioned": [
+          "Ahrefs",
+          "SEMrush",
+          "Fraser AI",
+          "WordLift",
+          "Acrolinx",
+          "Content Blossom",
+          "Article Forge",
+          "Long Tail Pro",
+          "KWFinder"
+        ]
+      }
+    },
+    {
+      "prompt": "best ai seo tool for content creation",
+      "engine": "ollama-llama",
+      "model": "llama3.1",
+      "ok": false,
+      "error": "404 Client Error: Not Found for url: http://127.0.0.1:11434/api/generate",
+      "latency_ms": 8,
+      "answer": "",
+      "extraction": null
+    },
+    {
+      "prompt": "ai seo tool with api access",
+      "engine": "groq-llama",
+      "model": "llama-3.3-70b-versatile",
+      "ok": true,
+      "error": null,
+      "latency_ms": 1852,
+      "answer": "Here are some AI SEO tools with API access:\n\n1. **Ahrefs**: Ahrefs offers a comprehensive SEO toolset with API access, allowing you to automate tasks such as keyword research, backlink analysis, and content optimization.\n2. **SEMrush**: SEMrush provides an API for accessing its vast database of SEO metrics, including keyword rankings, technical SEO audits, and competitor analysis.\n3. **Moz**: Moz offers a range of SEO tools, including keyword research, link building, and content optimization, with API access for automating tasks and integrating with other tools.\n4. **Google Search Console API**: The Google Search Console API allows you to access search analytics data, including search queries, impressions, and clicks, to inform your SEO strategy.\n5. **Bing Webmaster API**: The Bing Webmaster API provides access to search analytics data, including search queries, impressions, and clicks, as well as tools for managing your website's presence on Bing.\n6. **Serpstat**: Serpstat offers a comprehensive SEO toolset with API access, including keyword research, competitor analysis, and technical SEO audits.\n7. **Long Tail Pro**: Long Tail Pro is a keyword research tool that offers API access for automating tasks such as keyword suggestion, competitor analysis, and content optimization.\n8. **KWFinder**: KWFinder is a keyword research tool that offers API access for automating tasks such as keyword suggestion, competitor analysis, and content optimization.\n9. **AccuRanker**: AccuRanker is a rank tracking tool that offers API access for automating tasks such as keyword tracking, competitor analysis, and SEO reporting.\n10. **SE Ranking**: SE Ranking is an all-in-one SEO tool that offers API access for automating tasks such as keyword research, competitor analysis, and technical SEO audits.\n\nWhen choosing an AI SEO tool with API access, consider the following factors:\n\n1. **Data accuracy**: Look for tools that provide accurate and up-to-date data to inform your SEO strategy.\n2. **API documentation**: Choose tools with well-documented APIs that are easy to integrate with your existing tools and workflows.\n3. **Customization options**: Consider tools that offer customization options to tailor the API to your specific needs.\n4. **Support and community**: Look for tools with active support teams and communities to help you troubleshoot issues and stay up-to-date with the latest developments.\n5. **Pricing**: Evaluate the pricing plans for each tool to ensure they fit within your budget and meet your needs.\n\nBy leveraging AI SEO tools with API access, you can automate tasks, streamline your workflow, and gain valuable insights to inform your SEO strategy.",
+      "extraction": {
+        "brands": [
+          {
+            "name": "AthenaHQ",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Surfer",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Clearscope",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          }
+        ],
+        "other_brands_mentioned": [
+          "Ahrefs",
+          "SEMrush",
+          "Moz",
+          "Google",
+          "Bing",
+          "Serpstat",
+          "Long Tail Pro",
+          "KWFinder",
+          "AccuRanker",
+          "SE Ranking"
+        ]
+      }
+    },
+    {
+      "prompt": "ai seo tool with api access",
+      "engine": "ollama-llama",
+      "model": "llama3.1",
+      "ok": false,
+      "error": "404 Client Error: Not Found for url: http://127.0.0.1:11434/api/generate",
+      "latency_ms": 5,
+      "answer": "",
+      "extraction": null
+    },
+    {
+      "prompt": "is athenahq worth the cost",
+      "engine": "groq-llama",
+      "model": "llama-3.3-70b-versatile",
+      "ok": true,
+      "error": null,
+      "latency_ms": 3349,
+      "answer": "AthenaHQ is a revenue management and optimization platform designed for hotels, resorts, and other hospitality businesses. Whether or not AthenaHQ is worth the cost depends on several factors, including the specific needs and goals of your business, the size and complexity of your operations, and the potential return on investment (ROI) you can expect from using the platform.\n\nHere are some points to consider when evaluating the cost-effectiveness of AthenaHQ:\n\n**Benefits:**\n\n1. **Revenue optimization**: AthenaHQ's advanced analytics and machine learning algorithms help hotels optimize their pricing and revenue strategies, potentially leading to increased revenue and profitability.\n2. **Streamlined operations**: The platform automates many tasks, such as rate setting, inventory management, and reporting, which can save time and reduce manual errors.\n3. **Data-driven decision-making**: AthenaHQ provides real-time data and insights, enabling hoteliers to make informed decisions about their business and stay competitive in the market.\n4. **Integration with existing systems**: AthenaHQ can integrate with various property management systems (PMS), central reservation systems (CRS), and other hospitality software, making it easier to manage multiple systems and data sources.\n\n**Costs:**\n\n1. **Subscription fees**: AthenaHQ charges a monthly or annual subscription fee, which can vary depending on the size and complexity of your business, as well as the specific features and services you require.\n2. **Implementation and training**: There may be additional costs associated with implementing AthenaHQ, such as training and onboarding fees, which can add to the overall expense.\n3. **Ongoing support and maintenance**: AthenaHQ may charge for ongoing support and maintenance, which can include software updates, technical assistance, and troubleshooting.\n\n**ROI potential:**\n\n1. **Revenue growth**: By optimizing pricing and revenue strategies, hotels can potentially increase their revenue and profitability, which can offset the costs of using AthenaHQ.\n2. **Efficiency gains**: Automating tasks and streamlining operations can lead to cost savings and improved productivity, which can also contribute to a positive ROI.\n3. **Competitive advantage**: By using AthenaHQ, hotels can gain a competitive advantage in the market, which can lead to increased market share and revenue growth.\n\nTo determine whether AthenaHQ is worth the cost for your business, consider the following steps:\n\n1. **Evaluate your current revenue management processes**: Assess your current revenue management strategies and identify areas for improvement.\n2. **Calculate your potential ROI**: Estimate the potential revenue growth and cost savings you can achieve by using AthenaHQ, and compare this to the costs of the platform.\n3. **Assess your business needs and goals**: Consider your business objectives, such as increasing revenue, improving efficiency, or enhancing competitiveness, and determine whether AthenaHQ can help you achieve these goals.\n4. **Request a demo or trial**: Contact AthenaHQ to request a demo or trial, which can give you a better understanding of the platform's features and capabilities.\n5. **Negotiate a customized pricing plan**: If you decide to implement AthenaHQ, negotiate a pricing plan that meets your business needs and budget.\n\nUltimately, whether AthenaHQ is worth the cost depends on your specific business requirements and the potential benefits you can achieve by using the platform. It's essential to carefully evaluate the costs and benefits and consider your business goals and objectives before making a decision.",
+      "extraction": {
+        "brands": [
+          {
+            "name": "AthenaHQ",
+            "mentioned": true,
+            "position": 1,
+            "recommended": false,
+            "sentiment": "neutral",
+            "context": "AthenaHQ is a revenue management"
+          },
+          {
+            "name": "Surfer",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Clearscope",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          }
+        ],
+        "other_brands_mentioned": []
+      }
+    },
+    {
+      "prompt": "is athenahq worth the cost",
+      "engine": "ollama-llama",
+      "model": "llama3.1",
+      "ok": false,
+      "error": "404 Client Error: Not Found for url: http://127.0.0.1:11434/api/generate",
+      "latency_ms": 7,
+      "answer": "",
+      "extraction": null
+    },
+    {
+      "prompt": "best ai seo tool for local seo",
+      "engine": "groq-llama",
+      "model": "llama-3.3-70b-versatile",
+      "ok": true,
+      "error": null,
+      "latency_ms": 2392,
+      "answer": "Here are some of the best AI-powered SEO tools for local SEO:\n\n1. **Ahrefs**: Ahrefs is a comprehensive SEO tool that uses AI to analyze backlinks, keywords, and content. It also has a specific module for local SEO, which helps you to optimize your website for local search results.\n2. **SEMrush**: SEMrush is another popular SEO tool that uses AI to analyze your website's technical SEO, backlinks, and content. It also has a local SEO module that helps you to optimize your website for local search results.\n3. **Moz Local**: Moz Local is a tool specifically designed for local SEO. It uses AI to help you manage your online presence, optimize your website for local search, and build high-quality citations.\n4. **BrightLocal**: BrightLocal is a local SEO tool that uses AI to help you optimize your website for local search results. It also provides tools for citation building, review management, and local keyword research.\n5. **Rank Ranger**: Rank Ranger is a comprehensive SEO tool that uses AI to track your website's rankings, analyze your competitors, and optimize your content for local search results.\n6. **Local Falcon**: Local Falcon is a local SEO tool that uses AI to help you optimize your Google My Business listing, build high-quality citations, and track your website's local search rankings.\n7. **Whitespark**: Whitespark is a local SEO tool that uses AI to help you build high-quality citations, optimize your website for local search, and track your website's local search rankings.\n8. **Synup**: Synup is a local SEO tool that uses AI to help you manage your online presence, optimize your website for local search, and build high-quality citations.\n9. **GeoRanker**: GeoRanker is a local SEO tool that uses AI to help you optimize your website for local search results, track your website's local search rankings, and analyze your competitors.\n10. **Local SEO Checker**: Local SEO Checker is a tool that uses AI to help you optimize your website for local search results, track your website's local search rankings, and analyze your competitors.\n\nWhen choosing an AI-powered SEO tool for local SEO, consider the following factors:\n\n1. **Accuracy**: Look for tools that provide accurate and up-to-date data on local search rankings, citations, and reviews.\n2. **Comprehensive features**: Choose a tool that offers a range of features, including keyword research, backlink analysis, and citation building.\n3. **Ease of use**: Select a tool that is easy to use and navigate, even for those without extensive SEO experience.\n4. **Customer support**: Look for tools that offer reliable customer support, including tutorials, guides, and responsive support teams.\n5. **Pricing**: Consider the cost of the tool and whether it fits within your budget.\n\nUltimately, the best AI-powered SEO tool for local SEO will depend on your specific needs and goals. Be sure to research and compare different tools before making a decision.",
+      "extraction": {
+        "brands": [
+          {
+            "name": "AthenaHQ",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Surfer",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Clearscope",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          }
+        ],
+        "other_brands_mentioned": [
+          "Ahrefs",
+          "SEMrush",
+          "Moz Local",
+          "BrightLocal",
+          "Rank Ranger",
+          "Local Falcon",
+          "Whitespark",
+          "Synup",
+          "GeoRanker",
+          "Local SEO Checker"
+        ]
+      }
+    },
+    {
+      "prompt": "best ai seo tool for local seo",
+      "engine": "ollama-llama",
+      "model": "llama3.1",
+      "ok": false,
+      "error": "404 Client Error: Not Found for url: http://127.0.0.1:11434/api/generate",
+      "latency_ms": 4,
+      "answer": "",
+      "extraction": null
+    },
+    {
+      "prompt": "ai seo tools for wordpress",
+      "engine": "groq-llama",
+      "model": "llama-3.3-70b-versatile",
+      "ok": true,
+      "error": null,
+      "latency_ms": 1967,
+      "answer": "Here are some popular AI-powered SEO tools for WordPress:\n\n1. **Yoast SEO**: Yoast SEO is a well-known WordPress plugin that uses AI to analyze and optimize content for search engines. It offers features like keyword research, content analysis, and internal linking suggestions.\n2. **All in One SEO Pack**: This plugin uses AI to analyze and optimize content, including keyword research, meta tags, and social media integration.\n3. **SEMrush**: SEMrush is a comprehensive SEO tool that offers AI-powered features like technical SEO audits, keyword research, and competitor analysis. It also has a WordPress plugin that integrates with the platform.\n4. **Ahrefs**: Ahrefs is another popular SEO tool that uses AI to analyze backlinks, content, and keywords. It also has a WordPress plugin that integrates with the platform.\n5. **Rank Math**: Rank Math is a WordPress plugin that uses AI to analyze and optimize content for search engines. It offers features like keyword research, content analysis, and internal linking suggestions.\n6. **Squirrly SEO**: Squirrly SEO is a WordPress plugin that uses AI to analyze and optimize content for search engines. It offers features like keyword research, content analysis, and social media integration.\n7. **Content Blossom**: Content Blossom is an AI-powered content optimization tool that integrates with WordPress. It offers features like content analysis, keyword research, and content suggestions.\n8. **WordLift**: WordLift is a WordPress plugin that uses AI to analyze and optimize content for search engines. It offers features like entity recognition, keyword research, and content suggestions.\n9. **SEO Optimizer**: SEO Optimizer is a WordPress plugin that uses AI to analyze and optimize content for search engines. It offers features like keyword research, content analysis, and internal linking suggestions.\n10. **Schema App**: Schema App is a WordPress plugin that uses AI to analyze and optimize schema markup for search engines. It offers features like schema markup generation, entity recognition, and content suggestions.\n\nThese AI-powered SEO tools can help WordPress users optimize their content, improve their search engine rankings, and increase their online visibility.\n\n**Key Features to Look for:**\n\n1. **Keyword research**: AI-powered keyword research tools can help you identify relevant keywords and phrases for your content.\n2. **Content analysis**: AI-powered content analysis tools can help you analyze and optimize your content for search engines.\n3. **Internal linking suggestions**: AI-powered internal linking suggestions can help you improve your website's structure and navigation.\n4. **Entity recognition**: AI-powered entity recognition tools can help you identify and optimize entities like names, locations, and organizations in your content.\n5. **Schema markup generation**: AI-powered schema markup generation tools can help you generate and optimize schema markup for your content.\n6. **Social media integration**: AI-powered social media integration tools can help you optimize your content for social media platforms.\n7. **Technical SEO audits**: AI-powered technical SEO audits can help you identify and fix technical SEO issues on your website.\n\n**Benefits of Using AI-Powered SEO Tools:**\n\n1. **Improved search engine rankings**: AI-powered SEO tools can help you optimize your content and improve your search engine rankings.\n2. **Increased online visibility**: AI-powered SEO tools can help you increase your online visibility and reach a wider audience.\n3. **Time-saving**: AI-powered SEO tools can help you save time and effort by automating tasks like keyword research and content analysis.\n4. **Data-driven insights**: AI-powered SEO tools can provide you with data-driven insights and recommendations to improve your SEO strategy.\n5. **Competitive advantage**: AI-powered SEO tools can help you stay ahead of the competition by providing you with advanced SEO features and capabilities.",
+      "extraction": {
+        "brands": [
+          {
+            "name": "AthenaHQ",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Surfer",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Clearscope",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          }
+        ],
+        "other_brands_mentioned": [
+          "Yoast SEO",
+          "All in One SEO Pack",
+          "SEMrush",
+          "Ahrefs",
+          "Rank Math",
+          "Squirrly SEO",
+          "Content Blossom",
+          "WordLift",
+          "SEO Optimizer",
+          "Schema App"
+        ]
+      }
+    },
+    {
+      "prompt": "ai seo tools for wordpress",
+      "engine": "ollama-llama",
+      "model": "llama3.1",
+      "ok": false,
+      "error": "404 Client Error: Not Found for url: http://127.0.0.1:11434/api/generate",
+      "latency_ms": 12,
+      "answer": "",
+      "extraction": null
+    },
+    {
+      "prompt": "what are the top ai seo tools for 2024",
+      "engine": "groq-llama",
+      "model": "llama-3.3-70b-versatile",
+      "ok": true,
+      "error": null,
+      "latency_ms": 1667,
+      "answer": "Here are some of the top AI SEO tools for 2024:\n\n1. **Ahrefs**: A comprehensive SEO toolset that uses AI to analyze backlinks, content, and technical SEO.\n2. **SEMrush**: An all-in-one SEO tool that uses AI to audit websites, analyze competitors, and optimize content.\n3. **Moz**: A suite of SEO tools that uses AI to analyze backlinks, content, and technical SEO, with a focus on keyword research and optimization.\n4. **Google Analytics 360**: A powerful analytics tool that uses AI to analyze website data and provide insights on user behavior.\n5. **Content Blossom**: An AI-powered content optimization tool that helps with keyword research, content creation, and optimization.\n6. **WordLift**: An AI-powered content optimization tool that helps with keyword research, content creation, and optimization, with a focus on entity-based optimization.\n7. **Acrolinx**: An AI-powered content optimization tool that helps with content creation, optimization, and analysis, with a focus on clarity, consistency, and readability.\n8. **RankBrain**: A tool that uses AI to analyze and optimize website content for Google's RankBrain algorithm.\n9. **Serpstat**: An all-in-one SEO tool that uses AI to analyze competitors, optimize content, and track keyword rankings.\n10. **Long Tail Pro**: A keyword research tool that uses AI to identify long-tail keywords and optimize content for better rankings.\n11. **KWFinder**: A keyword research tool that uses AI to identify keywords and optimize content for better rankings.\n12. **AnswerThePublic**: A tool that uses AI to identify questions and topics related to a specific keyword or topic.\n13. **Fraser AI**: An AI-powered SEO tool that helps with keyword research, content creation, and optimization, with a focus on entity-based optimization.\n14. **SEOClarity**: An AI-powered SEO tool that helps with keyword research, content creation, and optimization, with a focus on technical SEO and analytics.\n15. **BrightEdge**: An AI-powered SEO tool that helps with keyword research, content creation, and optimization, with a focus on technical SEO and analytics.\n\nThese tools use various AI technologies such as:\n\n* Natural Language Processing (NLP)\n* Machine Learning (ML)\n* Deep Learning (DL)\n* Entity Recognition\n* Sentiment Analysis\n\nto help with SEO tasks such as:\n\n* Keyword research and optimization\n* Content creation and optimization\n* Technical SEO and auditing\n* Competitor analysis and tracking\n* Analytics and reporting\n\nNote that this is not an exhaustive list, and new tools are emerging as AI technology continues to evolve.",
+      "extraction": {
+        "brands": [
+          {
+            "name": "AthenaHQ",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Surfer",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Clearscope",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          }
+        ],
+        "other_brands_mentioned": [
+          "Ahrefs",
+          "SEMrush",
+          "Moz",
+          "Google Analytics 360",
+          "Content Blossom",
+          "WordLift",
+          "Acrolinx",
+          "RankBrain",
+          "Serpstat",
+          "Long Tail Pro",
+          "KWFinder",
+          "AnswerThePublic",
+          "Fraser AI",
+          "SEOClarity",
+          "BrightEdge"
+        ]
+      }
+    },
+    {
+      "prompt": "what are the top ai seo tools for 2024",
+      "engine": "ollama-llama",
+      "model": "llama3.1",
+      "ok": false,
+      "error": "404 Client Error: Not Found for url: http://127.0.0.1:11434/api/generate",
+      "latency_ms": 6,
+      "answer": "",
+      "extraction": null
+    }
+  ]
+}
