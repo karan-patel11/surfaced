@@ -1,0 +1,13 @@
+.env
+.env.local
+__pycache__/
+*.pyc
+cache/*.json
+.venv/
+web/.next/
+web/node_modules/
+web/coverage/
+node_modules/
+.next/
+cache/
+web/data/

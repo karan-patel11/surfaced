@@ -1,0 +1,15 @@
+{
+  "latest": "20260622-153012",
+  "runs": [
+    {
+      "run_id": "20260622-153012",
+      "category": "project management software",
+      "created": "2026-06-22T15:30:12Z",
+      "engines": [
+        "groq-llama",
+        "gemini"
+      ],
+      "prompt_count": 8
+    }
+  ]
+}

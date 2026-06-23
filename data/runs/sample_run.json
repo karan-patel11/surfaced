@@ -1,0 +1,665 @@
+{
+  "run_id": "20260622-153012",
+  "category": "project management software",
+  "tracked_brands": [
+    "Notion",
+    "Asana",
+    "Monday"
+  ],
+  "engines": [
+    "groq-llama",
+    "gemini"
+  ],
+  "prompt_count": 8,
+  "prompts": [
+    "best project management software for a small marketing team",
+    "lightweight tool for docs and tasks at a startup",
+    "Asana vs Monday for agencies handling client work",
+    "most affordable project management app for freelancers",
+    "project management software with automations and executive dashboards",
+    "is Notion worth it for managing client projects",
+    "alternatives to Trello for growing software teams",
+    "best project management platform for cross functional enterprise teams"
+  ],
+  "results": [
+    {
+      "prompt": "best project management software for a small marketing team",
+      "engine": "groq-llama",
+      "model": "llama-3.3-70b-versatile",
+      "ok": true,
+      "error": null,
+      "latency_ms": 812,
+      "answer": "For a small marketing team, Asana is the safest default because it is easy to roll out and strong on campaign tasks. Monday is also good if the team wants colorful boards and reporting. ClickUp is worth considering for teams that want more configuration.",
+      "extraction": {
+        "brands": [
+          {
+            "name": "Notion",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Asana",
+            "mentioned": true,
+            "position": 1,
+            "recommended": true,
+            "sentiment": "positive",
+            "context": "safest default for campaign tasks"
+          },
+          {
+            "name": "Monday",
+            "mentioned": true,
+            "position": 2,
+            "recommended": true,
+            "sentiment": "positive",
+            "context": "good if the team wants reporting"
+          }
+        ],
+        "other_brands_mentioned": [
+          "ClickUp"
+        ]
+      }
+    },
+    {
+      "prompt": "best project management software for a small marketing team",
+      "engine": "gemini",
+      "model": "gemini-1.5-flash",
+      "ok": true,
+      "error": null,
+      "latency_ms": 734,
+      "answer": "I would shortlist Asana first for small marketing teams, then Monday for workflow visibility. Trello can work for a simpler board based process, while ClickUp suits teams that want one highly configurable workspace.",
+      "extraction": {
+        "brands": [
+          {
+            "name": "Notion",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Asana",
+            "mentioned": true,
+            "position": 1,
+            "recommended": true,
+            "sentiment": "positive",
+            "context": "shortlist Asana first"
+          },
+          {
+            "name": "Monday",
+            "mentioned": true,
+            "position": 2,
+            "recommended": true,
+            "sentiment": "positive",
+            "context": "for workflow visibility"
+          }
+        ],
+        "other_brands_mentioned": [
+          "Trello",
+          "ClickUp"
+        ]
+      }
+    },
+    {
+      "prompt": "lightweight tool for docs and tasks at a startup",
+      "engine": "groq-llama",
+      "model": "llama-3.3-70b-versatile",
+      "ok": true,
+      "error": null,
+      "latency_ms": 901,
+      "answer": "Notion is a strong pick when a startup wants notes, docs, task lists, and light project tracking in one place. Asana is better if the work quickly becomes structured around owners, deadlines, and repeatable workflows.",
+      "extraction": {
+        "brands": [
+          {
+            "name": "Notion",
+            "mentioned": true,
+            "position": 1,
+            "recommended": true,
+            "sentiment": "positive",
+            "context": "strong pick for notes docs tasks"
+          },
+          {
+            "name": "Asana",
+            "mentioned": true,
+            "position": 2,
+            "recommended": true,
+            "sentiment": "positive",
+            "context": "better if work becomes structured"
+          },
+          {
+            "name": "Monday",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          }
+        ],
+        "other_brands_mentioned": []
+      }
+    },
+    {
+      "prompt": "lightweight tool for docs and tasks at a startup",
+      "engine": "gemini",
+      "model": "gemini-1.5-flash",
+      "ok": true,
+      "error": null,
+      "latency_ms": 688,
+      "answer": "For a startup centered on documentation, Notion is usually the cleanest answer. If the task process needs more assignment depth, Asana is the safer companion choice.",
+      "extraction": {
+        "brands": [
+          {
+            "name": "Notion",
+            "mentioned": true,
+            "position": 1,
+            "recommended": true,
+            "sentiment": "positive",
+            "context": "cleanest answer for documentation"
+          },
+          {
+            "name": "Asana",
+            "mentioned": true,
+            "position": 2,
+            "recommended": true,
+            "sentiment": "positive",
+            "context": "safer companion choice"
+          },
+          {
+            "name": "Monday",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          }
+        ],
+        "other_brands_mentioned": []
+      }
+    },
+    {
+      "prompt": "Asana vs Monday for agencies handling client work",
+      "engine": "groq-llama",
+      "model": "llama-3.3-70b-versatile",
+      "ok": true,
+      "error": null,
+      "latency_ms": 856,
+      "answer": "For agencies, Asana tends to be better for clean task ownership, approvals, and predictable client deliverables. Monday is stronger when the agency wants custom boards, dashboards, and a more visual operating system.",
+      "extraction": {
+        "brands": [
+          {
+            "name": "Notion",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Asana",
+            "mentioned": true,
+            "position": 1,
+            "recommended": true,
+            "sentiment": "positive",
+            "context": "better for clean task ownership"
+          },
+          {
+            "name": "Monday",
+            "mentioned": true,
+            "position": 2,
+            "recommended": true,
+            "sentiment": "positive",
+            "context": "stronger for custom boards"
+          }
+        ],
+        "other_brands_mentioned": []
+      }
+    },
+    {
+      "prompt": "Asana vs Monday for agencies handling client work",
+      "engine": "gemini",
+      "model": "gemini-1.5-flash",
+      "ok": true,
+      "error": null,
+      "latency_ms": 779,
+      "answer": "Pick Asana if the agency needs disciplined project execution and clear handoffs. Pick Monday if client reporting and highly customized views matter more. Wrike is another agency friendly option for heavier approvals.",
+      "extraction": {
+        "brands": [
+          {
+            "name": "Notion",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Asana",
+            "mentioned": true,
+            "position": 1,
+            "recommended": true,
+            "sentiment": "positive",
+            "context": "needs disciplined project execution"
+          },
+          {
+            "name": "Monday",
+            "mentioned": true,
+            "position": 2,
+            "recommended": true,
+            "sentiment": "positive",
+            "context": "client reporting and customized views"
+          }
+        ],
+        "other_brands_mentioned": [
+          "Wrike"
+        ]
+      }
+    },
+    {
+      "prompt": "most affordable project management app for freelancers",
+      "engine": "groq-llama",
+      "model": "llama-3.3-70b-versatile",
+      "ok": true,
+      "error": null,
+      "latency_ms": 643,
+      "answer": "Freelancers should compare Trello, Notion, and Todoist first. Notion can be very cost effective because the free plan covers docs, simple databases, and client portals for many solo operators.",
+      "extraction": {
+        "brands": [
+          {
+            "name": "Notion",
+            "mentioned": true,
+            "position": 1,
+            "recommended": true,
+            "sentiment": "positive",
+            "context": "very cost effective"
+          },
+          {
+            "name": "Asana",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Monday",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          }
+        ],
+        "other_brands_mentioned": [
+          "Trello",
+          "Todoist"
+        ]
+      }
+    },
+    {
+      "prompt": "most affordable project management app for freelancers",
+      "engine": "gemini",
+      "model": "gemini-1.5-flash",
+      "ok": true,
+      "error": null,
+      "latency_ms": 702,
+      "answer": "For freelancers, Notion is often worth trying before a paid project management suite. Trello is simpler for kanban, and Todoist is better for personal task lists.",
+      "extraction": {
+        "brands": [
+          {
+            "name": "Notion",
+            "mentioned": true,
+            "position": 1,
+            "recommended": true,
+            "sentiment": "positive",
+            "context": "worth trying before paid suite"
+          },
+          {
+            "name": "Asana",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Monday",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          }
+        ],
+        "other_brands_mentioned": [
+          "Trello",
+          "Todoist"
+        ]
+      }
+    },
+    {
+      "prompt": "project management software with automations and executive dashboards",
+      "engine": "groq-llama",
+      "model": "llama-3.3-70b-versatile",
+      "ok": true,
+      "error": null,
+      "latency_ms": 918,
+      "answer": "Monday is one of the strongest choices for automations and executive dashboards because it combines workflow rules with visual reporting. Asana also works well for portfolio level visibility, while ClickUp gives teams many automation options.",
+      "extraction": {
+        "brands": [
+          {
+            "name": "Notion",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Asana",
+            "mentioned": true,
+            "position": 2,
+            "recommended": true,
+            "sentiment": "positive",
+            "context": "works well for portfolio visibility"
+          },
+          {
+            "name": "Monday",
+            "mentioned": true,
+            "position": 1,
+            "recommended": true,
+            "sentiment": "positive",
+            "context": "strongest choices for automations"
+          }
+        ],
+        "other_brands_mentioned": [
+          "ClickUp"
+        ]
+      }
+    },
+    {
+      "prompt": "project management software with automations and executive dashboards",
+      "engine": "gemini",
+      "model": "gemini-1.5-flash",
+      "ok": true,
+      "error": null,
+      "latency_ms": 847,
+      "answer": "Start with Monday if dashboards and automation builders are the priority. Asana is a good alternative when leadership wants portfolio status tied to tasks. Smartsheet may be better for spreadsheet style governance.",
+      "extraction": {
+        "brands": [
+          {
+            "name": "Notion",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Asana",
+            "mentioned": true,
+            "position": 2,
+            "recommended": true,
+            "sentiment": "positive",
+            "context": "good alternative for portfolio status"
+          },
+          {
+            "name": "Monday",
+            "mentioned": true,
+            "position": 1,
+            "recommended": true,
+            "sentiment": "positive",
+            "context": "dashboards and automation builders"
+          }
+        ],
+        "other_brands_mentioned": [
+          "Smartsheet"
+        ]
+      }
+    },
+    {
+      "prompt": "is Notion worth it for managing client projects",
+      "engine": "groq-llama",
+      "model": "llama-3.3-70b-versatile",
+      "ok": true,
+      "error": null,
+      "latency_ms": 801,
+      "answer": "Notion is worth it for client projects when the work depends on docs, meeting notes, project hubs, and lightweight databases. If you need strict dependencies or workload views, Asana may be stronger.",
+      "extraction": {
+        "brands": [
+          {
+            "name": "Notion",
+            "mentioned": true,
+            "position": 1,
+            "recommended": true,
+            "sentiment": "positive",
+            "context": "worth it for client projects"
+          },
+          {
+            "name": "Asana",
+            "mentioned": true,
+            "position": 2,
+            "recommended": true,
+            "sentiment": "positive",
+            "context": "may be stronger for dependencies"
+          },
+          {
+            "name": "Monday",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          }
+        ],
+        "other_brands_mentioned": []
+      }
+    },
+    {
+      "prompt": "is Notion worth it for managing client projects",
+      "engine": "gemini",
+      "model": "gemini-1.5-flash",
+      "ok": true,
+      "error": null,
+      "latency_ms": 693,
+      "answer": "Yes, Notion can be a strong client project hub if the team values documentation and flexible pages. For heavier agency production, ClickUp or Asana can be better fits.",
+      "extraction": {
+        "brands": [
+          {
+            "name": "Notion",
+            "mentioned": true,
+            "position": 1,
+            "recommended": true,
+            "sentiment": "positive",
+            "context": "strong client project hub"
+          },
+          {
+            "name": "Asana",
+            "mentioned": true,
+            "position": 2,
+            "recommended": true,
+            "sentiment": "positive",
+            "context": "better fits for heavier agency production"
+          },
+          {
+            "name": "Monday",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          }
+        ],
+        "other_brands_mentioned": [
+          "ClickUp"
+        ]
+      }
+    },
+    {
+      "prompt": "alternatives to Trello for growing software teams",
+      "engine": "groq-llama",
+      "model": "llama-3.3-70b-versatile",
+      "ok": true,
+      "error": null,
+      "latency_ms": 766,
+      "answer": "Growing software teams usually outgrow Trello into Asana, Jira, or Monday. Asana is friendlier for cross functional planning, Monday is more visual, and Jira is still the standard for engineering issue tracking.",
+      "extraction": {
+        "brands": [
+          {
+            "name": "Notion",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Asana",
+            "mentioned": true,
+            "position": 1,
+            "recommended": true,
+            "sentiment": "positive",
+            "context": "friendlier for cross functional planning"
+          },
+          {
+            "name": "Monday",
+            "mentioned": true,
+            "position": 2,
+            "recommended": true,
+            "sentiment": "positive",
+            "context": "more visual"
+          }
+        ],
+        "other_brands_mentioned": [
+          "Trello",
+          "Jira"
+        ]
+      }
+    },
+    {
+      "prompt": "alternatives to Trello for growing software teams",
+      "engine": "gemini",
+      "model": "gemini-1.5-flash",
+      "ok": true,
+      "error": null,
+      "latency_ms": 721,
+      "answer": "The most common Trello alternatives for growing software teams are Asana, Monday, Jira, and ClickUp. Asana is usually easier for non technical teams, while Monday gives leaders more visual workflow control.",
+      "extraction": {
+        "brands": [
+          {
+            "name": "Notion",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Asana",
+            "mentioned": true,
+            "position": 1,
+            "recommended": true,
+            "sentiment": "positive",
+            "context": "easier for non technical teams"
+          },
+          {
+            "name": "Monday",
+            "mentioned": true,
+            "position": 2,
+            "recommended": true,
+            "sentiment": "positive",
+            "context": "more visual workflow control"
+          }
+        ],
+        "other_brands_mentioned": [
+          "Trello",
+          "Jira",
+          "ClickUp"
+        ]
+      }
+    },
+    {
+      "prompt": "best project management platform for cross functional enterprise teams",
+      "engine": "groq-llama",
+      "model": "llama-3.3-70b-versatile",
+      "ok": true,
+      "error": null,
+      "latency_ms": 1054,
+      "answer": "For cross functional enterprise teams, Asana is a strong recommendation because it handles portfolios, goals, and work management cleanly. Monday is also a contender for teams that want configurable workflows. Smartsheet and Wrike belong on the shortlist for governance heavy environments.",
+      "extraction": {
+        "brands": [
+          {
+            "name": "Notion",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Asana",
+            "mentioned": true,
+            "position": 1,
+            "recommended": true,
+            "sentiment": "positive",
+            "context": "strong recommendation for enterprise teams"
+          },
+          {
+            "name": "Monday",
+            "mentioned": true,
+            "position": 2,
+            "recommended": true,
+            "sentiment": "positive",
+            "context": "contender for configurable workflows"
+          }
+        ],
+        "other_brands_mentioned": [
+          "Smartsheet",
+          "Wrike"
+        ]
+      }
+    },
+    {
+      "prompt": "best project management platform for cross functional enterprise teams",
+      "engine": "gemini",
+      "model": "gemini-1.5-flash",
+      "ok": true,
+      "error": null,
+      "latency_ms": 967,
+      "answer": "Asana is the first platform I would evaluate for cross functional enterprise work. Monday can be excellent when business teams need flexible boards and dashboards. For regulated or spreadsheet oriented teams, Smartsheet is often a better fit.",
+      "extraction": {
+        "brands": [
+          {
+            "name": "Notion",
+            "mentioned": false,
+            "position": null,
+            "recommended": false,
+            "sentiment": "absent",
+            "context": ""
+          },
+          {
+            "name": "Asana",
+            "mentioned": true,
+            "position": 1,
+            "recommended": true,
+            "sentiment": "positive",
+            "context": "first platform to evaluate"
+          },
+          {
+            "name": "Monday",
+            "mentioned": true,
+            "position": 2,
+            "recommended": true,
+            "sentiment": "positive",
+            "context": "excellent with flexible boards"
+          }
+        ],
+        "other_brands_mentioned": [
+          "Smartsheet"
+        ]
+      }
+    }
+  ]
+}

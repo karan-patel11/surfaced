@@ -1,0 +1,41 @@
+name: Refresh audits
+
+on:
+  schedule:
+    - cron: "0 13 * * 1"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install -r surfaced/audit/requirements.txt
+
+      - name: Run audit refresh
+        env:
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: python surfaced/audit/refresh.py
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name "surfaced-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add surfaced/data/
+          if git diff --staged --quiet; then
+            echo "No data changes."
+          else
+            git commit -m "chore: refresh audit data [skip ci]"
+            git push
+          fi

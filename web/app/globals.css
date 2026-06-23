@@ -1,0 +1,58 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    color-scheme: light;
+  }
+
+  html {
+    background: theme("colors.paper");
+  }
+
+  body {
+    background: theme("colors.paper");
+    color: theme("colors.body");
+    font-family: var(--font-inter), Inter, system-ui, sans-serif;
+  }
+
+  h1,
+  h2,
+  h3 {
+    color: theme("colors.ink");
+    font-family: var(--font-serif), Georgia, serif;
+    letter-spacing: 0;
+  }
+
+  a {
+    color: theme("colors.accent");
+  }
+
+  select,
+  button {
+    font: inherit;
+  }
+}
+
+@layer components {
+  .eyebrow {
+    @apply text-[0.72rem] font-extrabold uppercase tracking-[0.12em] text-muted;
+  }
+
+  .section-rule {
+    @apply border-t border-rule pt-5;
+  }
+
+  .surface {
+    @apply rounded-md border border-rule bg-surface shadow-hairline;
+  }
+
+  .table-cell {
+    @apply border-t border-rule px-4 py-4 align-top text-[0.93rem] leading-relaxed;
+  }
+
+  .table-heading {
+    @apply px-4 py-3 text-left text-[0.68rem] font-extrabold uppercase tracking-[0.1em] text-muted;
+  }
+}

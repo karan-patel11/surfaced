@@ -1,0 +1,94 @@
+{
+  "category": "project management software",
+  "tracked_brands": [
+    "Notion",
+    "Asana",
+    "Monday"
+  ],
+  "considered_prompts": 8,
+  "total_prompts": 8,
+  "engines": [
+    "groq-llama",
+    "gemini"
+  ],
+  "brand_scores": [
+    {
+      "name": "Asana",
+      "mentions": 7,
+      "recommendations": 7,
+      "share_of_voice": 0.875,
+      "recommendation_rate": 0.875,
+      "avg_position": 1.43,
+      "sentiment": {
+        "positive": 14
+      },
+      "gap_prompts": [
+        "most affordable project management app for freelancers"
+      ]
+    },
+    {
+      "name": "Monday",
+      "mentions": 5,
+      "recommendations": 5,
+      "share_of_voice": 0.625,
+      "recommendation_rate": 0.625,
+      "avg_position": 1.8,
+      "sentiment": {
+        "positive": 10
+      },
+      "gap_prompts": [
+        "lightweight tool for docs and tasks at a startup",
+        "most affordable project management app for freelancers",
+        "is Notion worth it for managing client projects"
+      ]
+    },
+    {
+      "name": "Notion",
+      "mentions": 3,
+      "recommendations": 3,
+      "share_of_voice": 0.375,
+      "recommendation_rate": 0.375,
+      "avg_position": 1.0,
+      "sentiment": {
+        "positive": 6
+      },
+      "gap_prompts": [
+        "best project management software for a small marketing team",
+        "Asana vs Monday for agencies handling client work",
+        "project management software with automations and executive dashboards",
+        "alternatives to Trello for growing software teams",
+        "best project management platform for cross functional enterprise teams"
+      ]
+    }
+  ],
+  "per_engine_share": {
+    "groq-llama": {
+      "Notion": 0.375,
+      "Asana": 0.875,
+      "Monday": 0.625
+    },
+    "gemini": {
+      "Notion": 0.375,
+      "Asana": 0.875,
+      "Monday": 0.625
+    }
+  },
+  "untracked_brands": {
+    "ClickUp": 5,
+    "Trello": 5,
+    "Smartsheet": 3,
+    "Jira": 2,
+    "Todoist": 2,
+    "Wrike": 2
+  },
+  "coverage": {
+    "groq-llama": {
+      "ok": 8,
+      "failed": 0
+    },
+    "gemini": {
+      "ok": 8,
+      "failed": 0
+    }
+  }
+}
